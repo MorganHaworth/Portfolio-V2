@@ -1,0 +1,127 @@
+{
+    "class": [
+        {
+            "company": "Do Space",
+            "title": "Lead Instructor",
+            "courseTitle": "Hello Code: HTML & CSS",
+            "details": [
+                "5 weekly sessions of instructing HTML and CSS", 
+                "Teaching adult students non-JavaScript web development"
+            ],
+            "sessions": [
+                "October 2018", "February 2019", "September 2019",
+                "February 2020", "June 2020", "July 2020", 
+                "September 2020", "November 2020", "February 2021",
+                "April 2021", "June 2021", "July 2021", "February 2022",
+                "July 2022"
+            ]
+        },
+        {
+            "company": "Do Space",
+            "title": "Lead Instructor",
+            "courseTitle": "Hello Code: JavaScript",
+            "details": [
+                "5 weekly sessions of instructing JavaScript", 
+                "Teaching adult students interactive web development",
+                "Cover programming fundamentals: conditionals, loops, variables, and more",
+                "Cover DOM manipulation and array/object access using JavaScript"
+            ],
+            "sessions": [
+                "Oct 2022"
+            ]
+        },
+        {
+            "company": "Do Space",
+            "title": "Lead Instructor",
+            "courseTitle": "Hello Code: C#",
+            "details": [
+                "5 weekly sessions of instructing C# using .NET Fiddle", 
+                "Teaching adult students fundamental programming concepts: I/O, methods, objects, loops, etc"
+            ],
+            "sessions": [
+                "April 2022"
+            ]
+        },
+        {
+            "company": "Do Space",
+            "title": "Webinar Host",
+            "courseTitle": "JavaScript Basics",
+            "details": [
+                "60 - 90 minute webinar covering the who, what, why of JavaScript",
+                "Live-coded JavaScript examples: calling APIs, parsing JSON, generating elements, etc"
+            ],
+            "sessions": [
+                "June 2020", "May 2021", "January 2022"
+            ]
+        },
+        {
+            "company": "Do Space",
+            "title": "Webinar Host",
+            "courseTitle": "Intro to HTML and CSS",
+            "details": [
+                "60 - 90 minute webinar covering the basics of simple web development",
+                "Live-coded mini-websites showcasing the power of the markup and styling languages"
+            ],
+            "sessions": [
+                "December 2020", "October 2021", "January 2022", "April 2022"
+            ]
+        },
+        {
+            "company": "University of Nebraska at Omaha",
+            "title": "Co-lead instructor",
+            "courseTitle": "CodeCrush Mini-Hackathon",
+            "details": [
+                "Guided middle school students in ideating, developing, and demo-ing website projects",
+                "Covered basics of web development and created templates"
+            ],
+            "sessions": [
+                "February 2021"
+            ]
+        },
+        {
+            "company": "Mystery Code Society",
+            "title": "Co-lead instructor",
+            "courseTitle": "HTMElle",
+            "details": [
+                "Taught HTML and CSS using Khan Academy to elementary and middle school students",
+                "Helped students prepare and demo a mini-capstone"
+            ],
+            "sessions": [
+                "February 2021"
+            ]
+        },
+        {
+            "company": "Girls Who Code",
+            "title": "Teaching Assistant",
+            "courseTitle": "Summer Immersion Program",
+            "details": [
+                ""
+            ],
+            "sessions": [
+                "Summer 2018"
+            ]
+        },
+        {
+            "company": "Metropolitan Community College - Workplace Innovation Division",
+            "title": "Corporate Trainer",
+            "courseTitle": "Code School",
+            "details": [
+                ""
+            ],
+            "sessions": [
+                "2021-2022", "2022-2023"
+            ]
+        },
+        {
+            "company": "Metropolitan Community College - Workplace Innovation Division",
+            "title": "Instructor",
+            "courseTitle": "Intro to Web Development",
+            "details": [
+                ""
+            ],
+            "sessions": [
+                "June 2022", "August 2022"
+            ]
+        }
+    ]
+}
