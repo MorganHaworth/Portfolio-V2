@@ -1,0 +1,184 @@
+{
+    "fullTime": [
+        {
+            "company": "First National Bank of Omaha",
+            "title": "Technology Developer",
+            "location": "Omaha, NE and Remote",
+            "src": "image",
+            "responsibilities": [
+                "Create React components and tests for consumer-facing application",
+                "Write Java endpoints with Spring"
+            ],
+            "tech": [
+                "React", "Java", "Agile", "Jira", "Swagger", "Spring"
+            ],
+            "duration": 
+            {
+                "start": "September 2021", 
+                "startDateFormat": "",
+                "end": "March 2022",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Twitch",
+            "title": "Systems Development Engineer",
+            "location": "Remote",
+            "src": "image",
+            "responsibilities": [
+                "Migrate Python application to new AWS Infrastructure", 
+                "Add parameters to Lambda Java endpoint"
+            ],
+            "tech": [
+                "AWS Suite", "Ansible", "Terraform", "Java", "Python", "LucidChart"
+            ],
+            "duration": 
+            {
+                "start": "April 2022", 
+                "startDateFormat": "",
+                "end": "Present",
+                "endDateFormation": ""
+            }
+        }
+    ],
+    "internships": [
+        {
+            "company": "Union Pacific",
+            "title": "IT Intern",
+            "location": "Omaha, NE",
+            "src": "image",
+            "responsibilities": [
+                "Develop AngularJS components that call services and display data",
+                "Modify Java APIs and test using Postman",
+                "Follow mockups for development guidelines"
+            ],
+            "tech": [
+                "Git", "Java", "HTML", "CSS", "SQL", "API", "AngularJS", "Postman", "Agile", "SVN", "Gitlab"
+            ],
+            "duration": 
+            {
+                "start": "October 2018", 
+                "startDateFormat": "",
+                "end": "May 2019",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Spreetail",
+            "title": "Software Engineering Intern",
+            "location": "Omaha, NE",
+            "src": "image",
+            "responsibilities": [
+                "Performed backend development of fullfilment center location management application",
+                "Collaborated with frontend and design intern during app development"
+            ],
+            "tech": [
+                "C#", "Entity Framework", "SQL", "Agile", "Git", "Swagger"
+            ],
+            "duration": 
+            {
+                "start": "May 2019", 
+                "startDateFormat": "",
+                "end": "August 2019",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Union Pacific",
+            "title": "IT Intern",
+            "location": "Omaha, NE and rempte",
+            "src": "image",
+            "responsibilities": [
+                "Developed frontend layout of document management system in Angular8"
+            ],
+            "tech": [
+                "Angular", "Java", "JDBC"
+            ],
+            "duration": 
+            {
+                "start": "September 2019", 
+                "startDateFormat": "",
+                "end": "January 2020",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Mutual of Omaha",
+            "title": "Technology Intern",
+            "location": "Omaha, NE and remote",
+            "src": "image",
+            "responsibilities": [
+                "Created tests for SFTP requests in healthcheck application"
+            ],
+            "tech": [
+                "Groovy", "Docker", "BitBucket"
+            ],
+            "duration": 
+            {
+                "start": "January 2020", 
+                "startDateFormat": "",
+                "end": "May 2020",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Bank of America",
+            "title": "Global Technology Analyst Intern",
+            "location": "Remote",
+            "src": "image",
+            "responsibilities": [
+                "Performed sentiment analysis to and visualized BofA financial documents and reports"
+            ],
+            "tech": [
+                "Python", "Python Libraries"
+            ],
+            "duration": 
+            {
+                "start": "June 2020", 
+                "startDateFormat": "",
+                "end": "August 2020",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Mutual of Omaha",
+            "title": "Technology Intern",
+            "location": "Remote",
+            "src": "image",
+            "responsibilities": [
+                "Created and modified files/HTML on client-facing applications",
+                "Altered file templates while adhering to design guidelines"
+            ],
+            "tech": [
+                "HTML", "CSS", "Photoshop"
+            ],
+            "duration": 
+            {
+                "start": "August 2020", 
+                "startDateFormat": "",
+                "end": "April 2021",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "Twitch (Amazon)",
+            "title": "Devops Engineering Intern",
+            "location": "Remote",
+            "src": "twitch-logo",
+            "responsibilities": [
+                "Created Slack Bot for AWS Route53 domain delegation",
+                "Collected and validated Slack form modal input"
+            ],
+            "tech": [
+                "AWS Suite", "Terraform", "Slack API", "Github API", "Python", "Linux"
+            ],
+            "duration": 
+            {
+                "start": "May 2021", 
+                "startDateFormat": "",
+                "end": "August 2021",
+                "endDateFormation": ""
+            }
+        }
+    ]
+}

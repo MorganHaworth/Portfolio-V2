@@ -3,22 +3,33 @@
         {
             "company": "Do Space",
             "title": "Lead Instructor",
+            "location": "Omaha, NE and online",
             "courseTitle": "Hello Code: HTML & CSS",
             "details": [
                 "5 weekly sessions of instructing HTML and CSS", 
                 "Teaching adult students non-JavaScript web development"
             ],
             "sessions": [
-                "October 2018", "February 2019", "September 2019",
-                "February 2020", "June 2020", "July 2020", 
-                "September 2020", "November 2020", "February 2021",
-                "April 2021", "June 2021", "July 2021", "February 2022",
-                "July 2022"
+                {"timeDesc": "October 2018", "dateFormat": ""},
+                {"timeDesc": "February 2019", "dateFormat": ""},
+                {"timeDesc": "September 2019", "dateFormat": ""},
+                {"timeDesc": "February 2020", "dateFormat": ""},
+                {"timeDesc": "June 2020", "dateFormat": ""},
+                {"timeDesc": "July 2020", "dateFormat": ""},
+                {"timeDesc": "September 2020", "dateFormat": ""},
+                {"timeDesc": "November 2020", "dateFormat": ""},
+                {"timeDesc": "February 2021", "dateFormat": ""},
+                {"timeDesc": "April 2021", "dateFormat": ""},
+                {"timeDesc": "June 2021", "dateFormat": ""},
+                {"timeDesc": "July 2021", "dateFormat": ""},
+                {"timeDesc": "February 2022", "dateFormat": ""},
+                {"timeDesc": "July 2022", "dateFormat": ""}
             ]
         },
         {
             "company": "Do Space",
             "title": "Lead Instructor",
+            "location": "Omaha, NE",
             "courseTitle": "Hello Code: JavaScript",
             "details": [
                 "5 weekly sessions of instructing JavaScript", 
@@ -27,100 +38,147 @@
                 "Cover DOM manipulation and array/object access using JavaScript"
             ],
             "sessions": [
-                "Oct 2022"
+                {"timeDesc": "October 2022", "dateFormat": ""}
             ]
         },
         {
             "company": "Do Space",
             "title": "Lead Instructor",
+            "location": "Omaha, NE",
             "courseTitle": "Hello Code: C#",
             "details": [
                 "5 weekly sessions of instructing C# using .NET Fiddle", 
                 "Teaching adult students fundamental programming concepts: I/O, methods, objects, loops, etc"
             ],
             "sessions": [
-                "April 2022"
+                {"timeDesc": "April 2022", "dateFormat": ""}
             ]
         },
         {
             "company": "Do Space",
             "title": "Webinar Host",
+            "location": "Online",
             "courseTitle": "JavaScript Basics",
             "details": [
-                "60 - 90 minute webinar covering the who, what, why of JavaScript",
+                "Lead 60 - 90 minute webinar covering the who, what, why of JavaScript",
                 "Live-coded JavaScript examples: calling APIs, parsing JSON, generating elements, etc"
             ],
             "sessions": [
-                "June 2020", "May 2021", "January 2022"
+                {"timeDesc": "June 2020", "dateFormat": ""},
+                {"timeDesc": "May 2021", "dateFormat": ""},
+                {"timeDesc": "January 2022", "dateFormat": ""}
             ]
         },
         {
             "company": "Do Space",
             "title": "Webinar Host",
+            "location": "Online",
             "courseTitle": "Intro to HTML and CSS",
             "details": [
-                "60 - 90 minute webinar covering the basics of simple web development",
+                "Lead 60 - 90 minute webinar covering the basics of simple web development",
                 "Live-coded mini-websites showcasing the power of the markup and styling languages"
             ],
             "sessions": [
-                "December 2020", "October 2021", "January 2022", "April 2022"
+                {"timeDesc": "December 2020", "dateFormat": ""},
+                {"timeDesc": "October 2021", "dateFormat": ""},
+                {"timeDesc": "January 2022", "dateFormat": ""},
+                {"timeDesc": "April 2022", "dateFormat": ""}
             ]
         },
         {
             "company": "University of Nebraska at Omaha",
             "title": "Co-lead instructor",
+            "location": "Online",
             "courseTitle": "CodeCrush Mini-Hackathon",
             "details": [
                 "Guided middle school students in ideating, developing, and demo-ing website projects",
                 "Covered basics of web development and created templates"
             ],
             "sessions": [
-                "February 2021"
+                {"timeDesc": "February 2021", "dateFormat": ""}
             ]
         },
         {
             "company": "Mystery Code Society",
             "title": "Co-lead instructor",
+            "location": "Omaha, NE",
             "courseTitle": "HTMElle",
             "details": [
                 "Taught HTML and CSS using Khan Academy to elementary and middle school students",
                 "Helped students prepare and demo a mini-capstone"
             ],
             "sessions": [
-                "February 2021"
+                {"timeDesc": "July 2021", "dateFormat": ""}
             ]
         },
         {
             "company": "Girls Who Code",
             "title": "Teaching Assistant",
+            "location": "Sunnyvale, CA",
             "courseTitle": "Summer Immersion Program",
             "details": [
-                ""
+                "Helped teach computer science fundamentals to high school students using Python"
             ],
             "sessions": [
-                "Summer 2018"
+                {"timeDesc": "Summer 2018", "dateFormat": ""}
             ]
         },
         {
             "company": "Metropolitan Community College - Workplace Innovation Division",
             "title": "Corporate Trainer",
+            "location": "Omaha, NE and online",
             "courseTitle": "Code School",
             "details": [
-                ""
+                "Lead and assist teaching the MCC Code School curriculum",
+                "Create labs, assignments, and day-to-day curriculum for frontend increment"
             ],
             "sessions": [
-                "2021-2022", "2022-2023"
+                {"timeDesc": "2021-2022", "dateFormat": ""},
+                {"timeDesc": "2022-2023", "dateFormat": ""}
             ]
         },
         {
             "company": "Metropolitan Community College - Workplace Innovation Division",
             "title": "Instructor",
+            "location": "Online",
             "courseTitle": "Intro to Web Development",
             "details": [
-                ""
+                "Lead one month web technology course",
+                "Topics include: Intro to the Internet, Networking, Client-Server architecture, git, Github, HTML, CSS, and JavaScript",
+                "Helped teams of students develop a 2-week capstone project"
             ],
             "sessions": [
-                "June 2022", "August 2022"
+                {"timeDesc": "June 2022", "dateFormat": ""},
+                {"timeDesc": "August 2022", "dateFormat": ""}
+            ]
+        },
+        {
+            "company": "Metropolitan Community College - Workplace Innovation Division",
+            "title": "Instructor",
+            "location": "Online",
+            "courseTitle": "Frontend Workshop",
+            "details": [
+                "Lead 4.5 hour HTML, CSS, and JavaScript workshop",
+                "Helped each student develop a portfolio website",
+                "Used GitHub for website hosting",
+                "Created a component library (vanilla JS) and documentation for students to use"
+            ],
+            "sessions": [
+                {"timeDesc": "December 2021", "dateFormat": ""}
+            ]
+        },
+        {
+            "company": "Metropolitan Community College - Workplace Innovation Division",
+            "title": "Instructor",
+            "location": "Online",
+            "courseTitle": "VueJS Workshop",
+            "details": [
+                "Led 4.5hr Vue3 development workshop",
+                "Developed a restaurant-ordering system to showcase VueJS capabilities",
+                "Covered VueJS: router, data binding, templates, reactivity, passing data between components, more"
+            ],
+            "sessions": [
+                {"timeDesc": "December 2021", "dateFormat": ""}
             ]
         }
     ]

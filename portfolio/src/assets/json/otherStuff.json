@@ -1,0 +1,36 @@
+{
+    "stuff": [
+        {
+            "company": "LinkedIn: Learning",
+            "title": "HTML Skills Assessment Reviewer as Subject Matter Expert",
+            "location": "Remote",
+            "responsibilities": [
+                "Provide corrective feedback and rank hundreds of HTML knowledge questions",
+                "Re-evaluate and rate modified questions"
+            ],
+            "duration": 
+            {
+                "start": "November 2021", 
+                "startDateFormat": "",
+                "end": "December 2021",
+                "endDateFormation": ""
+            }
+        },
+        {
+            "company": "CodePath",
+            "title": "Intermediate Software Engineering Algorithm Interview Prep Course Student",
+            "location": "Remote",
+            "responsibilities": [
+                "Spent the summer refreshing data strctures and algorithms",
+                "Performed practice tech whiteboard interviews"
+            ],
+            "duration": 
+            {
+                "start": "May 2019", 
+                "startDateFormat": "",
+                "end": "July 2019",
+                "endDateFormation": ""
+            }
+        }
+    ]
+}

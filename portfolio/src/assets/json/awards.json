@@ -1,0 +1,43 @@
+{
+    "awards": [
+        {
+            "award": "HackIllinois 2020 @ University of Illinois Urbana Champaign",
+            "title": "Staff Pick",
+            "project": "gr9d-strategy-2.0",
+            "date": {"timeDesc": "February 2020", "dateFormat": ""},
+            "link": "https://devpost.com"
+        },
+        {
+            "award": "HackIllinois 2019 @ University of Illinois Urbana Champaign",
+            "title": "1st Place",
+            "project": "gr9d-strategy",
+            "date": {"timeDesc": "February 2019", "dateFormat": ""},
+            "link": "https://devpost.com"
+        },
+        {
+            "award": "Grace Hopper Conference National Scholarship",
+            "title": "Recipient",
+            "date": {"timeDesc": "Fall 2019", "dateFormat": ""}
+        },
+        {
+            "award": "Nebraska Regents Scholarship",
+            "title": "Recipient",
+            "date": {"timeDesc": "September 2017", "dateFormat": ""}
+        },
+        {
+            "award": "ACM University Chapter Programming Competition",
+            "title": "1st Place - Open Bracket",
+            "date": {"timeDesc": "2018", "dateFormat": ""}
+        },
+        {
+            "award": "HackISU",
+            "title": "Participant",
+            "date": {"timeDesc": "Spring 2018", "dateFormat": ""}
+        },
+        {
+            "award": "HackISU",
+            "title": "Participant",
+            "date": {"timeDesc": "Fall 2018", "dateFormat": ""}
+        }
+    ]
+}
